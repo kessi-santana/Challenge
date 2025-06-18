@@ -34,8 +34,10 @@ Siga os passos abaixo para executar este projeto localmente após cloná-lo do G
 
 ## 1. Clone o repositório
 
+exemplo HTTPS:
+```
 git clone https://github.com/kessi-santana/Challenge.git
-
+```
 Entro no repositório do projeto (Challenge)
 
 ## 2. Instale as dependências
