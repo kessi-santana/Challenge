@@ -38,10 +38,6 @@ git clone https://github.com/kessi-santana/Challenge.git
 
 Entro no repositório do projeto (Challenge)
 
-Em um terminal na pasta do projeto o pode utilizar o cd para entra no /Challenge;
-
-cd Challenge
-
 ## 2. Instale as dependências
 Dentro do /Challenge em seu terminal o utilize o seguinte comando: 
 ```
